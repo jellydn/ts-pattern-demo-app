@@ -3,6 +3,12 @@
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
+## 🏠 [Homepage](https://github.com/jellydn/ts-pattern-demo-app)
+
+### ✨ [Demo](https://ts-pattern-demo-app.vercel.app)
+
+[![ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]](https://i.ytimg.com/vi/ujJlZi0IzI8/hqdefault.jpg)](https://www.youtube.com/watch?v=ujJlZi0IzI8)
+
 ## Features
 
 - https://github.com/gvergnaud/ts-pattern - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
