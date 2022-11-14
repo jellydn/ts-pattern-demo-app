@@ -3307,10 +3307,10 @@ tough-cookie@~2.5.0:
     psl "^1.1.28"
     punycode "^2.1.1"
 
-ts-pattern@4.0.5:
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/ts-pattern/-/ts-pattern-4.0.5.tgz#8e87db265b890ddb0dfc10deda36568296ebd5c3"
-  integrity sha512-Bq44KCEt7JVaNLa148mBCJkcQf4l7jtLEBDuDdeuLynWDA+1a60P4D0rMkqSM9mOKLQbIWUddE9h3XKyKwBeqA==
+ts-pattern@4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/ts-pattern/-/ts-pattern-4.0.6.tgz#02b17695f6385fcc6d2f3ba7962b0952f709d348"
+  integrity sha512-sFHQYD4KoysBi7e7a2mzDPvRBeqA4w+vEyRE+P5MU9VLq8eEYxgKCgD9RNEAT+itGRWUTYN+hry94GDPLb1/Yw==
 
 tsconfig-paths@^3.14.1:
   version "3.14.1"
